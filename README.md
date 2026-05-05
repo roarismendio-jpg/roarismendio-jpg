@@ -1,16 +1,26 @@
 # Hey, I'm Rodrigo.
 
-I build at the intersection of consumer products and AI tooling. Currently CEO + CTO of [Bemellou](https://bemellou.com) — a consumer wellness brand launching end of May 2026.
+I build at the intersection of consumer products and AI tooling. Currently CEO + CTO of [Bemellou](https://bemellou.com) — a consumer wellness brand launching May 28, 2026.
 
 ---
 
 ## What I'm working on
 
-**[Bemellou](https://github.com/bemellou)** — plush toys that act as the soft, low-friction first step into mental wellness. Each plush unlocks our app — therapists, courses, tools, a community. We launch end of May with 800+ on the waitlist.
+**[Bemellou](https://github.com/bemellou)** — plush toys that act as the soft, low-friction first step into mental wellness. Each plush unlocks our app — psychologists, courses, tools, a community. We launch May 28 with 800+ on the waitlist.
 
-I built the app from scratch in three weeks, with no prior coding experience, after firing the SaaS firm that was supposed to do it. Ships on iOS + Android.
+I built the app from scratch in three weeks, with no prior coding experience, after firing the SaaS firm we'd hired. Ships on iOS + Android.
 
 I also build internal tooling for Bemellou — see the [Bemellou org](https://github.com/bemellou) for the bots that run our acquisition, funding research, influencer sourcing, and ops.
+
+---
+
+## How I actually build
+
+I don't write Python by hand. I work through AI agents — Claude Code, Cursor, OpenHands. They write the code; I direct.
+
+I've open-sourced the actual specifications I feed those agents → **[bemellou/specs](https://github.com/bemellou/specs)**. The Reddit acquisition engine, the funding bot, the waitlist sequence, the app's adaptive onboarding — every spec is real, every spec shipped a real tool. The compounding artifact is the spec, not the code.
+
+If you're a founder who codes through agents, take what's useful. If you're an investor figuring out whether someone "really built it" — that repo is your answer.
 
 ---
 
@@ -18,7 +28,6 @@ I also build internal tooling for Bemellou — see the [Bemellou org](https://gi
 
 - Northwestern, Class of 2029. Math + Econ. GPA 3.96.
 - Joined [Black Forest Supplements](https://blackforestsupplements.com) at 14 when the company was sub-$20K rev. Promoted to Head of Influencer Marketing. Built a model using engagement metrics to predict influencer performance. Generated $3M+ in revenue over 18 months. Then walked away to build something fully my own.
-- I don't write Python by hand. I work through AI agents — Claude Code, Cursor, OpenHands. They write the code; I direct.
 - Native Spanish, fluent English, conversational French.
 
 ---
@@ -41,6 +50,8 @@ I also think most companies underinvest in their own internal tools. Half the wo
 ## Reach
 
 - Site → [bemellou.com](https://bemellou.com)
+- Press / partners → [bemellou/press-kit](https://github.com/bemellou/press-kit)
+- Hiring → [bemellou/jobs](https://github.com/bemellou/jobs)
 - Email → rodrigo@chubiez.com
 - Twitter / LinkedIn → links in profile
 
