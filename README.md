@@ -10,7 +10,7 @@ I build at the intersection of consumer products and AI tooling. Currently CEO +
 
 I built the app from scratch in three weeks, with no prior coding experience, after firing the SaaS firm we'd hired. Ships on iOS + Android.
 
-I also build internal tooling for Bemellou — see the [Bemellou org](https://github.com/bemellou) for the bots that run our acquisition, funding research, influencer sourcing, and ops.
+I also build internal tooling for Bemellou — the bots that run our acquisition, funding research, influencer sourcing, and ops. Most of those repos are private; the strategy is part of the edge.
 
 ---
 
@@ -18,9 +18,9 @@ I also build internal tooling for Bemellou — see the [Bemellou org](https://gi
 
 I don't write Python by hand. I work through AI agents — Claude Code, Cursor, OpenHands. They write the code; I direct.
 
-I've open-sourced the actual specifications I feed those agents → **[bemellou/specs](https://github.com/bemellou/specs)**. The Reddit acquisition engine, the funding bot, the waitlist sequence, the app's adaptive onboarding — every spec is real, every spec shipped a real tool. The compounding artifact is the spec, not the code.
+I write specifications and the agents ship. When something breaks, I learn what broke and tighten the spec. The compounding artifact is the spec, not the code — which gets rewritten freely.
 
-If you're a founder who codes through agents, take what's useful. If you're an investor figuring out whether someone "really built it" — that repo is your answer.
+If you want to see the surface, the [Bemellou org](https://github.com/bemellou) lists what we ship. The strategic layer stays internal.
 
 ---
 
@@ -36,7 +36,7 @@ If you're a founder who codes through agents, take what's useful. If you're an i
 
 I use AI as leverage, not as a crutch. The role of a founder is to multiply judgment, not delegate it. I write specifications and the agents ship. When something breaks, I learn what broke and tighten the spec. The compounding is real.
 
-I also think most companies underinvest in their own internal tools. Half the work of a startup happens in the tooling around the product — and that tooling is a portfolio of how the team thinks. Worth open-sourcing where you can.
+I also think most companies underinvest in their own internal tools. Half the work of a startup happens in the tooling around the product — and that tooling is a portfolio of how the team thinks.
 
 ---
 
