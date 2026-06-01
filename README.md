@@ -1,8 +1,8 @@
 # Hey, I'm Rodrigo.
 
-19. CEO + CTO of [Bemellou](https://bemellou.com) — a consumer wellness brand launching May 28, 2026.
+19. CEO + CTO of [Bemellou](https://bemellou.com) — a consumer wellness brand launching summer 2026.
 
-**Live now at [chubiez.app](https://chubiez.app)** (pre-launch iteration) · 800+ on the waitlist · $6K organic pre-launch revenue · iOS + Android
+**[bemellou.com](https://bemellou.com)** · 800+ on the waitlist · iOS + Android
 
 ---
 
@@ -51,10 +51,9 @@ I also think most companies underinvest in their own internal tools. Half the wo
 
 ## Reach
 
-- Live → [chubiez.app](https://chubiez.app) → [bemellou.com](https://bemellou.com) at launch
+- Live → [bemellou.com](https://bemellou.com)
 - Press → [bemellou/press-kit](https://github.com/bemellou/press-kit)
 - Hiring → [bemellou/jobs](https://github.com/bemellou/jobs)
-- Email → rodrigo@chubiez.com
-- Twitter / LinkedIn → links in profile
+- Get in touch → [bemellou.com](https://bemellou.com) · Twitter / LinkedIn in profile
 
 If you build mental-health-adjacent things, consumer wellness, or you're a builder who's tired of pretending you don't use AI to ship faster — let's talk.
